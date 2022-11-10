@@ -1,6 +1,6 @@
 # Your API KEYS (you need to use your own keys - very long random characters)
-MAPQUEST_API_KEY = 'gvrezAPbmOGAfXl5yvKqofOFAvf1MWRS'
-MBTA_API_KEY = 'ff13097204b54dddbdfe1cb16d95c03d'
+MAPQUEST_API_KEY = "39IXOW75VBCFrGUlENS7ZUnugmmmKDe9"
+MBTA_API_KEY = "9c6e8245898e4ef79c8cd4f8e57b1017"
 
 
 # Useful URLs (you need to add the appropriate parameters for your requests)
